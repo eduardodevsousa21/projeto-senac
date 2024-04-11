@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\linlab_lisbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD265FA-B7D2-43F6-A737-1CAB380B8C31}|linlab_lisbox\\linlab_lisbox.csproj|d:\\users\\aluno\\documents\\github\\projeto-senac(atualizado)\\linlab_lisbox\\linlab_lisbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AD265FA-B7D2-43F6-A737-1CAB380B8C31}|linlab_lisbox\\linlab_lisbox.csproj|solutionrelative:linlab_lisbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD265FA-B7D2-43F6-A737-1CAB380B8C31}|linlab_lisbox\\linlab_lisbox.csproj|d:\\users\\aluno\\documents\\github\\projeto-senac(atualizado)\\linlab_lisbox\\linlab_lisbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD265FA-B7D2-43F6-A737-1CAB380B8C31}|linlab_lisbox\\linlab_lisbox.csproj|solutionrelative:linlab_lisbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\linlab_lisbox\\linlab_lisbox\\Form1.cs",
+              "RelativeDocumentMoniker": "linlab_lisbox\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\linlab_lisbox\\linlab_lisbox\\Form1.cs",
+              "RelativeToolTip": "linlab_lisbox\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:56:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\linlab_lisbox\\linlab_lisbox\\Form1.cs",
+              "RelativeDocumentMoniker": "linlab_lisbox\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\linlab_lisbox\\linlab_lisbox\\Form1.cs [Projeto]",
+              "RelativeToolTip": "linlab_lisbox\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:43:27.96Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

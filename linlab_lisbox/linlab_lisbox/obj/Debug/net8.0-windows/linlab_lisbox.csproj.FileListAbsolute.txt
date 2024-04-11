@@ -1,0 +1,17 @@
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\bin\Debug\net8.0-windows\linlab_lisbox.exe
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\bin\Debug\net8.0-windows\linlab_lisbox.deps.json
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\bin\Debug\net8.0-windows\linlab_lisbox.runtimeconfig.json
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\bin\Debug\net8.0-windows\linlab_lisbox.dll
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\bin\Debug\net8.0-windows\linlab_lisbox.pdb
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.Form1.resources
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.AssemblyInfo.cs
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.sourcelink.json
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.dll
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\refint\linlab_lisbox.dll
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.pdb
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\linlab_lisbox.genruntimeconfig.cache
+D:\Users\Aluno\Documents\GitHub\projeto-senac(atualizado)\linlab_lisbox\linlab_lisbox\obj\Debug\net8.0-windows\ref\linlab_lisbox.dll

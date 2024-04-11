@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\Ti_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0B0135-5156-4C2D-9A32-7FB6B8C03484}|Ti_Project\\Ti_Project.csproj|d:\\users\\aluno\\documents\\github\\projeto-senac(atualizado)\\ti_project\\ti_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A0B0135-5156-4C2D-9A32-7FB6B8C03484}|Ti_Project\\Ti_Project.csproj|solutionrelative:ti_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\Ti_Project\\Ti_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Ti_Project\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\Ti_Project\\Ti_Project\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Ti_Project\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:47:04.041Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
