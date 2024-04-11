@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51F3F88A-D7B9-4270-96D2-F18293CD8E29}|finan\u00E7as_Projeto\\finan\u00E7as_Projeto.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_projeto\\fluxo de caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{51F3F88A-D7B9-4270-96D2-F18293CD8E29}|finan\u00E7as_Projeto\\finan\u00E7as_Projeto.csproj|d:\\users\\aluno\\documents\\github\\projeto-senac(atualizado)\\finan\u00E7as_projeto\\finan\u00E7as_projeto\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{51F3F88A-D7B9-4270-96D2-F18293CD8E29}|finan\u00E7as_Projeto\\finan\u00E7as_Projeto.csproj|solutionrelative:finan\u00E7as_projeto\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F3F88A-D7B9-4270-96D2-F18293CD8E29}|finan\u00E7as_Projeto\\finan\u00E7as_Projeto.csproj|d:\\users\\aluno\\documents\\github\\projeto-senac(atualizado)\\finan\u00E7as_projeto\\finan\u00E7as_projeto\\fluxo de caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{51F3F88A-D7B9-4270-96D2-F18293CD8E29}|finan\u00E7as_Projeto\\finan\u00E7as_Projeto.csproj|solutionrelative:finan\u00E7as_projeto\\fluxo de caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,11 +47,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "roi.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\roi.cs",
               "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\roi.cs",
@@ -60,7 +64,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\Form1.resx",
+              "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\Form1.resx",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\Form1.resx",
+              "RelativeToolTip": "finan\u00E7as_Projeto\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-11T13:20:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RH.csproj.user",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\RH\\RH\\RH.csproj.user",
               "RelativeDocumentMoniker": "..\\RH\\RH\\RH.csproj.user",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "..\\RH\\RH\\RH.csproj.user",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-04-11T13:09:28.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T13:09:28.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RH.csproj",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\RH\\RH\\RH.csproj",
               "RelativeDocumentMoniker": "..\\RH\\RH\\RH.csproj",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "..\\RH\\RH\\RH.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T13:09:27.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T13:09:27.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\RH\\RH\\Program.cs",
               "RelativeDocumentMoniker": "..\\RH\\RH\\Program.cs",
@@ -94,24 +108,23 @@
               "RelativeToolTip": "..\\RH\\RH\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T13:09:25.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T13:09:25.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fluxo de caixa.cs [Projeto]",
+              "DocumentIndex": 1,
+              "Title": "fluxo de caixa.cs [Design]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\fluxo de caixa.cs",
               "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\fluxo de caixa.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\fluxo de caixa.cs [Projeto]",
-              "RelativeToolTip": "finan\u00E7as_Projeto\\fluxo de caixa.cs [Projeto]",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\fluxo de caixa.cs [Design]",
+              "RelativeToolTip": "finan\u00E7as_Projeto\\fluxo de caixa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T13:04:53.304Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\Form1.Designer.cs",
@@ -123,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "roi.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\roi.cs",
               "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\roi.cs",
@@ -134,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\Form1.cs",
               "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\Form1.cs",
@@ -146,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\projeto-senac(atualizado)\\finan\u00E7as_Projeto\\finan\u00E7as_Projeto\\Form1.cs",
               "RelativeDocumentMoniker": "finan\u00E7as_Projeto\\Form1.cs",
