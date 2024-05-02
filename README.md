@@ -37,7 +37,6 @@ Para usar o aplicativo da empresa de calçados:
 1. Reportar bugs ou solicitar novos recursos através das issues no GitHub.
 2. Enviar pull requests com alterações no código, seguindo as diretrizes de contribuição.
 3. Compartilhar feedback e sugestões para melhorias diretamente com a equipe de desenvolvimento.
-4. 
 
 
 ## Contato
