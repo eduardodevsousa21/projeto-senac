@@ -43,6 +43,6 @@ Para usar o aplicativo da empresa de calçados:
 ## Contato
 
 GitHub dos contribuintes:
-Eduardo( eduardodevsousa21 ) <br>
-Ryenan ( Ryenan ) <br>
-Ermeson (ErmesonDouglas )
+Eduardo( eduardodevsousa21 ) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5588997007833&text&type=phone_number&app_absent=0) <br>
+Ryenan ( Ryenan ) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://api.whatsapp.com/send/?phone=5588997007833&text&type=phone_number&app_absent=0](https://api.whatsapp.com/send?phone=5588992642364)) <br>
+Ermeson (ErmesonDouglas ) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://api.whatsapp.com/send/?phone=5588997007833&text&type=phone_number&app_absent=0](https://api.whatsapp.com/send?phone=5588994033017))
