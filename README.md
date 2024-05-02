@@ -9,7 +9,6 @@ Projeto proposto pela instituição do SENAC, em equipe foi feito esse trabalho,
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Visão Geral
