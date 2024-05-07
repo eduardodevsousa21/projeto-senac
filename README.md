@@ -27,11 +27,11 @@ O desenvolvimento do aplicativo para a empresa de calçados visa fornecer uma so
 Para usar o aplicativo da empresa de calçados:
 
 1. Faça login com suas credenciais.
-    <br>  (Usuários para teste)
-       <br> - RH: Ermeson - 123
-       <br> - Logística: Ryênan - 123
-       <br> - T.I: Eduardo - 123
-       <br> - Produção: João - 123
+    <br>(Usuários para teste)<br>
+   - RH: Ermeson - 123 <br>
+   - Logística: Ryênan - 123 <br>
+   - T.I: Eduardo - 123 <br>
+   - Produção: João - 123
 2. No RH, cadastre funcionários, gerencie finanças e controle ponto.
 2.1. Na logística, acompanhe inventário e rastreie produtos.
 2.2. Em TI, abra chamados para problemas técnicos.
